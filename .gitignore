@@ -1,0 +1,5 @@
+.env
+backend/data/*.db-wal
+backend/data/*.db-shm
+backend/backups/*.db
+node_modules/
